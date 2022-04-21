@@ -9,5 +9,5 @@
 5. pip install matplotlib==3.2.2
 
 # Usage
-python stock.py // 上市股票
+python stock.py // 上市股票</br>
 python stock.py -two // 上櫃股票
